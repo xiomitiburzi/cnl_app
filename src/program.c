@@ -6,7 +6,7 @@ void setup(void)
 void loop(void)
 {
 	digitalWrite(21, HIGH);
-	delay(2500);
+	delay(1500);
 	digitalWrite(21, LOW);
-	delay(2500);
+	delay(1500);
 }
